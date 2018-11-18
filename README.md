@@ -16,3 +16,5 @@
 
 # show direction from current location
 <img src="screenshots/five.png" width="400" height="500">
+
+##### just add your map api in strings.xml file
