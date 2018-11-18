@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">My Nearby places</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_api_key">YOUR API KEY</string>
+
+    <string-array name="nearby_option">
+
+        <item>Select a Type</item>
+        <item>Airport</item>
+        <item>ATM Booth</item>
+        <item>Bank</item>
+        <item>Bakery</item>
+        <item>Bar</item>
+        <item>Book Store</item>
+        <item>Bus Station</item>
+        <item>Car Rental</item>
+        <item>Car Repair</item>
+        <item>Car Wash</item>
+        <item>Coffee Shop</item>
+        <item>Clothing Store</item>
+        <item>Dentist</item>
+        <item>Doctor</item>
+        <item>Electronics Store</item>
+        <item>Embassy</item>
+        <item>Fire Service</item>
+        <item>Gas Station</item>
+        <item>Govt Office</item>
+        <item>Gym</item>
+        <item>Hospital</item>
+        <item>Jewelry Store</item>
+        <item>Laundry</item>
+        <item>Mosque</item>
+        <item>Movie Theater</item>
+        <item>Park</item>
+        <item>Pharmacy</item>
+        <item>Police Nearby</item>
+        <item>Post Office</item>
+        <item>Restaurant</item>
+        <item>School</item>
+        <item>Shopping Mall</item>
+        <item>University</item>
+
+
+    </string-array>
+</resources>
